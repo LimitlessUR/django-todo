@@ -34,7 +34,7 @@ django-admin startproject (project_name) .	Sets up a project in the same directo
 python manage.py runserver	Runs the Django server
 python manage.py startapp (app_name)	Creates a Django app
 
-:) 
+ 
 
 
 
