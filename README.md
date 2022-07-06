@@ -17,6 +17,8 @@ Django project structure
 │   │   └── wsgi.py
 │   └── manage.py
 └── .venv
+<br/>
+
 
 config/ is the external folder of your project. It doesn’t matter to Django, so you can actually rename it to whatever you want.
 config/config/ is the actual Django project folder. It contains the setting files of your project.
