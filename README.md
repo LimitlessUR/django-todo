@@ -20,7 +20,8 @@ Django project structure
 <br/>
 
 
-config/ is the external folder of your project. It doesn’t matter to Django, so you can actually rename it to whatever you want.
+<h2>config/ is the external folder of your project. It doesn’t matter to Django, so you can actually rename it to whatever you want.</h2.
+<br/>
 config/config/ is the actual Django project folder. It contains the setting files of your project.
 manage.py is a Python script with the same functionality of django_admin but uses your project’s settings.
 __init__.py makes config/config a Python package.
