@@ -1,5 +1,5 @@
 # django-todo
-Simple Django todo list 
+`Simple Django todo list` 
 
 Add and delete functionality  
 
