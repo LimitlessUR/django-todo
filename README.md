@@ -5,6 +5,9 @@ Add and delete functionality
 
 User's data stored in sqlite DB 
 
+Documentation on Sqlite 
+https://www.sqlite.org/about.html
+
 https://user-images.githubusercontent.com/86543368/173093235-72dbdd96-dc4d-4c46-b716-8b273b6bc8ff.mp4
 
 
